@@ -1,10 +1,13 @@
 # Data Analysis with Pandas - Bike Stats
 
+## Links and Resources
+
+- [Cycle Data Set](https://www.kaggle.com/pronto/cycle-share-dataset)
+
 ## Feature Tasks and Requirements
 
 - Find and download the following data sets:
 
-  - Video Game Sales - Sales data from more than 16,500 games
   - Cycle Share Data set - Bicycle Trip Data from Seattle’s Cycle Share System
 
 - In the bike-stats notebook, answer the following questions/do the following tasks:
